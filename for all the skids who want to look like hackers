@@ -1,0 +1,14 @@
+@echo off
+color a
+title HACK WINDOW
+msg * target hacked
+ipconfig
+netstat -a
+tree
+ARP -a
+echo im not hacking
+delay 0.00000001
+shutdown -i
+:x
+dir/s
+goto x
