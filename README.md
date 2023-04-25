@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bsatae
+- 👀 I’m interested in batch files and pytyhon
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing "Im bsatae i work alone"
+- 📫 How to reach me: no way becuase"Im bsatae i work alone"
