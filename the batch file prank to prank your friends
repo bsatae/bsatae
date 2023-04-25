@@ -1,0 +1,9 @@
+@echo off
+msg * Your computer has detected a virus.
+msg * To remove the virus click OK or close this box
+msg * Your Hard drives are now being formatted
+msg * Please wait ………..
+msg * going bananas
+:x
+Start https://th.bing.com/th/id/R.55f8a8bd14b994d506fd3ae9eb8f7ae0?rik=PSb7n2ZIjg7AtA&riu=http%3a%2f%2fcdn-image.myrecipes.com%2fsites%2fdefault%2ffiles%2fstyles%2f4_3_horizontal_-_1200x900%2fpublic%2f1489682745%2fGettyImages-84505254.jpg%3fitok%3dW1KIJxVL&ehk=cW0HZnxFlbSqJPahX3rUP1Uc8dkceOjw%2b34VPUnfpbc%3d&risl=&pid=ImgRaw&r=0
+goto x
